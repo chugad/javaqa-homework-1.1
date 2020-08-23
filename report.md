@@ -2,7 +2,7 @@
 
 ## Краткое описание
 
-23.08.2020 - 23.08.2020 было проведено тестирование установки и функциональное тестирование приложения KeyValidator в соответствии с [Руководством использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md).
+23.08.2020 было проведено тестирование установки и функциональное тестирование приложения KeyValidator в соответствии с [Руководством использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md).
 
 На тестирование затрачено: 3
 
