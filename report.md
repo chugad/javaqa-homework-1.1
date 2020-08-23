@@ -4,7 +4,7 @@
 
 23.08.2020 было проведено тестирование установки и функциональное тестирование приложения KeyValidator в соответствии с [Руководством использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md).
 
-На тестирование затрачено: 3
+На тестирование затрачено: 3 часа
 
 В результате тестирования выявлены следующие дефекты:
 * https://github.com/chugad/javaqa-homework-1.1/issues/2
